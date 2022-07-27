@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at- geerija.ch@gmail.com
 
 <!---
 geerija/geerija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
