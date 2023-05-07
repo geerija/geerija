@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geerija
-- 👀 I’m interested in fullstack
+- 👀 I’m interested in fontend web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at- geerijachakraborty53@gmail.com
